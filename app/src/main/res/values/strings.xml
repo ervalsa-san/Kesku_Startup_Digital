@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Kesku</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="list_layanan">List Layanan</string>
+    <string name="layanan_khusus">Layanan Khusus</string>
+    <string name="detail_langganan">Dapatkan layanan kesehatan dengan berlangganan sebagai pasien khusus kami</string>
+    <string name="langganan">Langganan</string>
+    <string name="name_user">Bowo Nugraha</string>
+    <string name="email_user">bowonugraha40@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="help_center">Help Center</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="rate_app">Rate App</string>
+    <string name="apotek">Apotek</string>
+    <string name="konsultasi">Konsultasi</string>
+    <string name="obat_obatan">Obat-obatan</string>
+    <string name="perawatan_kesehatan">Perawatan Kesehatan</string>
+    <string name="apotek_detail">Temukan apotek terdekat di kotamu</string>
+    <string name="konsultasi_detail">Bicarakan keluhanmu kepada Ahli</string>
+    <string name="obat_detail">Dapatkan obat yang kamu butuhkan</string>
+    <string name="perawatan_detail">Rawat tubuh anda dengan produk yang disarankan</string>
+    <string name="kulit">Kulit</string>
+    <string name="jantung">Jantung</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="gigi">Gigi</string>
+    <string name="kulit_detail">Temukan produk-produk untuk menyehatkan kulitmu</string>
+    <string name="jantung_detail">Temukan produk untuk menyehatkan jantungmu</string>
+    <string name="weight_detail">Temukan produk untuk menyehatkan badanmu</string>
+    <string name="gigi_detail">Temukan produk untuk merawat kesehatan gigimu</string>
+    <string name="selamat_pagi">Selamat Pagi</string>
+    <string name="konsultasi_hai">Bagaimana kabar anda hari ini?</string>
+    <string name="buat_janji_temu">Buat janji temu</string>
+    <string name="chat_dengan_dokter">Chat dengan Dokter</string>
+    <string name="example_address">Jl. Prapatan No.33, Prapatan, Kec. Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76111</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

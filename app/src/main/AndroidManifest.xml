@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ervalsa.keskustartupdigital">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KeskuStartupDigital">
+        <activity
+            android:name=".ui.pembayaran.PembayaranSelesaiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.pembayaran.PembayaranActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.obat.ObatDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.perawatan.berat_badan.PerawatanBeratBadanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.perawatan.kulit.PerawatanKulitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.perawatan.PerawatanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.obat.ObatActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.konsultasi.KonsultasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.apotek.ApotekActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.sign_up.SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.splash.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
